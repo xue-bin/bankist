@@ -4,7 +4,7 @@ This application provides a simple and intuitive interface for managing your ban
 
 ## Features
 
-[Bankist App Flowchart](https://github.com/xue-bin/bankist/blob/main/Bankist-flowchart.png?raw=true)
+![Bankist App Flowchart](https://github.com/xue-bin/bankist/blob/main/Bankist-flowchart.png?raw=true)
 
 - Account Overview: View a summary of your account balances and transactions.
 - Transfer Funds: Transfer money between your different accounts.
