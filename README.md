@@ -25,6 +25,12 @@ The Bankist App provides demo accounts that you can use for testing:
 - Account 2:
 - Username: jd
 - Password: 2222
+- Account 4:
+- Username: stw
+- Password: 3333
+- Account 5:
+- Username: ss
+- Password: 4444
 
 Please note that these are demo accounts and should not be used for real transactions.
 
