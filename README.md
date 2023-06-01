@@ -42,10 +42,9 @@ Please note that these are demo accounts and should not be used for real transac
 
 ## Dependencies
 
-The Bankist App relies on the following dependencies:
+The Bankist App relies on the following APIs:
 
-- [FontAwesome](https://fontawesome.com/) - for icons.
-- [date-fns](https://date-fns.org/) - for date manipulation.
+- Internationalization API: [Intl](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl)
 
 ## Credits
 
